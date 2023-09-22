@@ -1,0 +1,113 @@
+
+/* Component: Perfil*/
+
+.container {
+    display: flex;
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+    color: #2E2E2E;
+}
+
+.container-perfil {
+    width: 45vw;
+    min-width: 45vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #F4F4F4;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.perfil {
+    width: 280px;
+}
+
+.nome {
+    font-weight: 700;
+    font-size: 32px;
+    margin-top: 60px;
+}
+
+.cargo {
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+.contato{
+    background-color: #2E2E2E;
+    color: white;
+    width: 250px;
+    height: 40px;
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.contato:hover {
+    background-color: #3b3b3b;    
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-img {   
+    width: 25px;
+    margin: 20px 20px;
+    cursor: pointer;
+}
+
+/* Component: Informações*/
+
+.container-informacoes {
+    padding: 5vw 10vw;
+    width: 55vw;
+    height: 100vh;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.container-informacoes h3 {
+    font-size: 4rem;
+}
+
+.container-informacoes p {
+    font-size: 18px;
+    font-weight: 400;
+    text-align: start;
+}
+
+.navegacao {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background-color: white;
+    width: 54vw;
+    display: flex;
+    justify-content: center;
+}
+
+.navegacao-img {
+    width: 55px;
+    height: 55px;
+    cursor: pointer;
+    margin: 1vw;
+    transition: transform 0.4s;
+}
+
+.navegacao-img:hover {
+    transform: scale(115%);
+}
+
+.animation-informacoes {
+    transition: transform 0.5s ease-in-out; 
+    transform: translateY(0);
+}
