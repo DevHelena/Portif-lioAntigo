@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portifolio/static/css/main.06248e86.css",
+    "main.js": "/portifolio/static/js/main.7718306a.js",
+    "static/media/euhelena.jpg": "/portifolio/static/media/euhelena.cd0a15a6384f93dc54b4.jpg",
+    "static/media/icon-email.png": "/portifolio/static/media/icon-email.0aa3efc487d4f843fe05.png",
+    "static/media/icon-github.png": "/portifolio/static/media/icon-github.5bfd9771c11787405e03.png",
+    "index.html": "/portifolio/index.html",
+    "main.06248e86.css.map": "/portifolio/static/css/main.06248e86.css.map",
+    "main.7718306a.js.map": "/portifolio/static/js/main.7718306a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06248e86.css",
+    "static/js/main.7718306a.js"
+  ]
+}
