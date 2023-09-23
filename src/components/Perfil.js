@@ -70,7 +70,7 @@ export const Perfil = () => {
               <img className='icon-img' src={email} alt='Ícone de e-mail'/>
             </a>
 
-            <a href='https://www.google.com/' target='_blank'>
+            <a href='https://github.com/DevHelena' target='_blank'>
               <img className='icon-img' src={github} alt='Ícone do GitHub' />
             </a>
 
