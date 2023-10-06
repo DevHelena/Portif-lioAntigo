@@ -35,7 +35,7 @@
     margin-top: 10px;
 }
 
-.contato{
+.curriculo{
     background-color: #2E2E2E;
     color: white;
     width: 250px;
@@ -46,7 +46,7 @@
     cursor: pointer;
 }
 
-.contato:hover {
+.curriculo:hover {
     background-color: #3b3b3b;    
 }
 
