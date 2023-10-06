@@ -85,6 +85,15 @@
     text-align: start;
 }
 
+.container-informacoes a {
+    text-decoration: underline;
+    font-style: italic;
+    color: #2E2E2E;
+    font-size: 14px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
 .navegacao {
     position: fixed;
     bottom: 0;

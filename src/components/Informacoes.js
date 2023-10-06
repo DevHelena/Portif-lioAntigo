@@ -63,7 +63,9 @@ const hardSkills = () => {
             <br/><br/>
             <strong>Node.js:</strong> Conhecimento em Node.js para o desenvolvimento de aplicações back-end e integração de tecnologias web.
             <br/><br/>
-            <strong>Python:</strong> Competência em Python, uma linguagem versátil, que pode ser aplicada em diversas áreas, como automação, análise de dados e desenvolvimento web.
+            <strong>Python:</strong> Competência em Python, uma linguagem versátil, que pode ser aplicada em diversas áreas, como automação, análise de dados e desenvolvimento web. <br/>
+            <a href='https://cursos.alura.com.br/user/helena-estudante05/fullCertificate/1d7dcd2b57378c43722bdbffb84944f8' target='_blank'>Confira todos os meus certificados</a> 
+            <br/><br/><br/>
         </p>
     )
 }
