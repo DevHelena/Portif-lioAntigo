@@ -13,6 +13,7 @@ import desceTudo from '../images/icon-desce-tudo.png'
 import { Informacoes } from './Informacoes'
 import curriculo from '../curriculo-helena-maia.pdf'
 
+//publicar: npm run deploy
 
 export const Perfil = () => {
   const [posicao, setPosicao] = useState(0)
