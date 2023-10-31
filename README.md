@@ -1,4 +1,4 @@
-# portifolio
+# Portifólio
 Meu portifólio oficial, onde me apresento e descrevo minhas habilidades
 
 ## Autora
