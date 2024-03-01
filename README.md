@@ -11,7 +11,7 @@ Desenvolvido por Helena Maia
 **CodePen**: [codepen.io/DevHelena](https://codepen.io/DevHelena)
 
 ## Acesse
-Você pode acessá-lo via este link: devhelena.github.io/portifolio
+Você pode acessá-lo via este link: [devhelena.github.io/portifolio](https://devhelena.github.io/portifolio/)
 
 ## Desenvolvimento
 Este projeto foi desenvolvido com React.js
